@@ -24,7 +24,6 @@ fastqc - Trim quality check.
 BBNorm - Normalize the read representation. Do not use for quantitative studies.
 fastqc - Normalize quality check
 Kaiju - Taxonomic binning of reads to isolate reads of interest.
-Kraken - Second taxonomic binning step
 
 *** pause
 
